@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "2393f878-1e2c-383c-85be-9de2603a8e5d",
+    "name": "Gerona",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ed8fdb72-e71e-33e3-bdbf-a821f55d315c",
+    "name": "MersYeon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
