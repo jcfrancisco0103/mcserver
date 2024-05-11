@@ -1,15 +1,1 @@
-[
-  {
-    "user": {
-      "type": "player",
-      "name": "MersYeon",
-      "uniqueId": "ed8fdb72-e71e-33e3-bdbf-a821f55d315c"
-    },
-    "time": 1707153684314,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/x3ezoLveIL"
-    }
-  }
-]
+[]
